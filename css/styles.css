@@ -1,0 +1,17 @@
+.mouse-story {
+  background: grey;
+  color: white;
+  font-family: cursive;
+}
+
+.cat-story {
+  background: #FEE191;
+  color: #CA6A0A;
+  font-family: sans-serif;
+}
+
+.squirrel-story {
+  background: brown;
+  color: tan;
+  font-family: fantasy;
+}
