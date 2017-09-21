@@ -2,16 +2,19 @@
   background: grey;
   color: white;
   font-family: cursive;
+  margin: 25px 5px 25px 5px;
 }
 
 .cat-story {
   background: #FEE191;
   color: #CA6A0A;
   font-family: sans-serif;
+  margin: 25px 5px 25px 5px;
 }
 
 .squirrel-story {
   background: brown;
   color: tan;
   font-family: fantasy;
+  margin: 25px 5px 25px 5px;
 }
